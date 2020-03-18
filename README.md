@@ -1,0 +1,2 @@
+# flutter_app_jimoshangguan_kuangjia
+即墨商管框架模板，已经封装好
