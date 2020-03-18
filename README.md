@@ -1,6 +1,8 @@
 # flutter_app_jimoshangguan_kuangjia
 即墨商管框架模板，已经封装好
 增加了中文  国际化  ，  input 框 复制粘贴 英文改成了中文 ， 点击两次 退出 APP ，开屏页启动图 ，登录页面 ，路由 ，状态管理 ，全局常量 Sting 和 color，全局弹框 ，全局api 
+
+------------------------------------------------------------------------------------------------------------------------------------
 dependencies:
   flutter:
     sdk: flutter
@@ -18,6 +20,7 @@ dependencies:
   fluro: 1.6.1       #Fluro是Flutter路由库，它添加了灵活的路由选项
   provider: 4.0.4    #依赖项注入和状态管理之间的混合，使用用于小部件的小部件构建。
   permission_handler: 4.4.0      #Flutter的权限插件。此插件提供了一个跨平台（iOS，Android）API来请求和检查权限。
+  
 #  bot_toast: 2.3.0       #一个非常易于使用的Flutter Toast库，易于使用且功能丰富。
 #  reorderables: 0.3.2    #包括可重新排序的表，行，列，换行和条状列表，使它们的子级可拖动并在小部件内重新排序。
 #  flutter_easyrefresh: 2.1.0   #提供给颤动滚动组件的小部件可下拉刷新并上拉负载。
